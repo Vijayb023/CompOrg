@@ -1,0 +1,6 @@
+﻿  Assembling main.asm...
+main.asm(1): error A2044: invalid character in file
+main.asm(7): error A2044: invalid character in file
+main.asm(8): error A2006: undefined symbol : myString
+main.asm(12): error A2006: undefined symbol : myString_length
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\main.obj" /W3 /errorReport:prompt  /Tamain.asm" exited with code 1.
